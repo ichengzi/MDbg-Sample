@@ -1,0 +1,12 @@
+D:\sample\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+D:\sample\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\ResolveAssemblyReference.cache
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb

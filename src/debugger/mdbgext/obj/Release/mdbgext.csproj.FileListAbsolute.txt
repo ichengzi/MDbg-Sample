@@ -1,0 +1,13 @@
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\mdbgext.dll
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\corapi.dll
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\mdbgeng.dll
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\raw.dll
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\mdbgeng.xml
+D:\UpdatedSample2\src\debugger\mdbgext\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\mdbgext\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\mdbgext\obj\Release\mdbgext.dll
+D:\UpdatedSample2\bin\Release\mdbgext.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\mdbgext.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\mdbgext\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\mdbgext\obj\Release\mdbgext.dll

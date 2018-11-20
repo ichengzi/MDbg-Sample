@@ -1,0 +1,8 @@
+D:\sample\src\extensions\enc\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\bin\Debug\enc.dll
+D:\UpdatedSample2\bin\Debug\enc.pdb
+D:\UpdatedSample2\bin\Debug\enc.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\bin\Debug\enc.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\extensions\enc\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\extensions\enc\obj\Debug\enc.dll
+D:\UpdatedSample2\src\extensions\enc\obj\Debug\enc.pdb

@@ -1,0 +1,13 @@
+D:\sample\src\debugger\corapi\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.pdb
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.xml
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\corapi.pdb

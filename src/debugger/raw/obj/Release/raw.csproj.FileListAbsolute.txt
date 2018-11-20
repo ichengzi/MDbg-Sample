@@ -1,0 +1,9 @@
+D:\UpdatedSample2\src\debugger\raw\bin\Release\raw.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\raw\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\raw\obj\Release\raw.dll
+D:\UpdatedSample2\bin\Release\raw.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\raw.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\raw\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\raw\obj\Release\raw.dll

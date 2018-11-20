@@ -1,0 +1,12 @@
+D:\sample\src\extensions\gui\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\bin\Debug\gui.dll
+D:\UpdatedSample2\bin\Debug\gui.pdb
+D:\UpdatedSample2\bin\Debug\gui.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\bin\Debug\gui.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\Microsoft.Samples.Tools.Mdbg.Extension.MainForm.resources
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\Microsoft.Samples.Tools.Mdbg.Extension.SourceViewerForm.resources
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\GenerateResource.read.1.tlog
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\GenerateResource.write.1.tlog
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\gui.dll
+D:\UpdatedSample2\src\extensions\gui\obj\Debug\gui.pdb

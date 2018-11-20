@@ -1,0 +1,8 @@
+D:\sample\src\extensions\ildasm\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\bin\Debug\ildasm.dll
+D:\UpdatedSample2\bin\Debug\ildasm.pdb
+D:\UpdatedSample2\bin\Debug\ildasm.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\bin\Debug\ildasm.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\extensions\ildasm\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\extensions\ildasm\obj\Debug\ildasm.dll
+D:\UpdatedSample2\src\extensions\ildasm\obj\Debug\ildasm.pdb

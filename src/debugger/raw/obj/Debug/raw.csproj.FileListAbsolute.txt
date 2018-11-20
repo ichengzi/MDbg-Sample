@@ -1,0 +1,15 @@
+D:\sample\src\debugger\raw\bin\Debug\raw.dll
+D:\sample\src\debugger\raw\bin\Debug\raw.pdb
+D:\sample\src\debugger\raw\obj\Debug\ResolveAssemblyReference.cache
+D:\sample\src\debugger\raw\obj\Debug\raw.dll
+D:\sample\src\debugger\raw\obj\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.xml
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\raw.pdb

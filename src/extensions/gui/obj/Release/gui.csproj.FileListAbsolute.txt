@@ -1,0 +1,14 @@
+D:\UpdatedSample2\bin\Release\gui.dll
+D:\UpdatedSample2\src\extensions\gui\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\extensions\gui\obj\Release\Microsoft.Samples.Tools.Mdbg.Extension.MainForm.resources
+D:\UpdatedSample2\src\extensions\gui\obj\Release\Microsoft.Samples.Tools.Mdbg.Extension.SourceViewerForm.resources
+D:\UpdatedSample2\src\extensions\gui\obj\Release\GenerateResource.read.1.tlog
+D:\UpdatedSample2\src\extensions\gui\obj\Release\GenerateResource.write.1.tlog
+D:\UpdatedSample2\src\extensions\gui\obj\Release\gui.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\gui.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\Microsoft.Samples.Tools.Mdbg.Extension.MainForm.resources
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\Microsoft.Samples.Tools.Mdbg.Extension.SourceViewerForm.resources
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\GenerateResource.read.1.tlog
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\GenerateResource.write.1.tlog
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\gui\obj\Release\gui.dll

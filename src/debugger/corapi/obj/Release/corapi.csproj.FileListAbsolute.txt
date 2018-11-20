@@ -1,0 +1,10 @@
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\raw.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\corapi\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\obj\Release\corapi.dll
+D:\UpdatedSample2\bin\Release\corapi.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\corapi.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\corapi\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\corapi\obj\Release\corapi.dll

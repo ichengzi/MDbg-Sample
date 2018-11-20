@@ -1,0 +1,6 @@
+D:\UpdatedSample2\bin\Release\enc.dll
+D:\UpdatedSample2\src\extensions\enc\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\extensions\enc\obj\Release\enc.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\enc.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\enc\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\extensions\enc\obj\Release\enc.dll
